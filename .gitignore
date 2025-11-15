@@ -59,4 +59,4 @@ __pycache__/
 .cache_dir/
 wandb/
 
-/notebooks/model_checkpoints
+notebooks/model_checkpoints
