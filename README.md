@@ -14,3 +14,11 @@ A servo-based sorting mechanism
 Real-time feedback to guide proper waste disposal
 
 The goal is to build a practical prototype that can classify 12 waste categories, auto-sort items, and be deployable in households, schools, or small community recycling centers.
+
+Research Gap
+
+Lack of real-world datasets
+
+Limited user guidance (only label prediction)
+
+No full end-to-end prototype combining CNN + IoT
