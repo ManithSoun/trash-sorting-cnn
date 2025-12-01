@@ -8,7 +8,7 @@ import tensorflow as tf
 # -------------------------------
 # 1. SERIAL PORT CONFIG
 # -------------------------------
-SERIAL_PORT = "/dev/cu.usbserial-1130"   # CHANGE IF DIFFERENT
+SERIAL_PORT = "/dev/cu.usbserial-130"   # CHANGE IF DIFFERENT
 BAUD_RATE = 115200
 
 print("[INFO] Connecting to ESP8266 via USB...")
