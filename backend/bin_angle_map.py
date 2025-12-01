@@ -22,14 +22,13 @@ CLASS_TO_CATEGORY = {
     "white-glass": "glass",
 }
 
-
+# Map model class → bin category (recyclable/glass/metal/general)
 def get_category_for_class(class_name: str) -> str:
-    """Map model class → bin category (recyclable/glass/metal/general)."""
     return CLASS_TO_CATEGORY.get(class_name, "general")
 
 
+# Map bin category → servo angle.
 def get_angle_for_category(category: str) -> int:
-    """Map bin category → servo angle."""
     return BIN_ANGLES.get(category, -1)
 
 
