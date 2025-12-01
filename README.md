@@ -1,7 +1,7 @@
 # trash-sorting-cnn
-Machine learning course final project
+Machine learning course final project 
 
-Project Overview
+Project Overview: 
 
 Waste generation is growing rapidly due to urbanization and increased consumption. Manual waste sorting is slow, labor-intensive, and prone to errors. This project aims to design a low-cost, automated smart waste management system using:
 
